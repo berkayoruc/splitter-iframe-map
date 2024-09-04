@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/splitter-iframe-map/static/css/main.374ad9a7.css",
+    "main.js": "/splitter-iframe-map/static/js/main.44074199.js",
+    "index.html": "/splitter-iframe-map/index.html",
+    "main.374ad9a7.css.map": "/splitter-iframe-map/static/css/main.374ad9a7.css.map",
+    "main.44074199.js.map": "/splitter-iframe-map/static/js/main.44074199.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.374ad9a7.css",
+    "static/js/main.44074199.js"
+  ]
+}
